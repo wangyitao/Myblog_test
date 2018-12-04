@@ -1,1 +1,1 @@
-# MyBlogs
+## 该项目为[MyBlogs](https://github.com/wangyitao/MyBlogs)项目某一个版本的拷贝，用来部署学习使用。
